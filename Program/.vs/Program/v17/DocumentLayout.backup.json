@@ -5,6 +5,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF75B0-ED80-4D7A-86BB-14D3CEE6CC66}|..\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +25,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 930,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.cpp",
+              "RelativeDocumentMoniker": "GameObject.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.cpp",
+              "RelativeToolTip": "GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T09:37:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.h",
+              "RelativeDocumentMoniker": "GameObject.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\GameObject.h",
+              "RelativeToolTip": "GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-11T09:36:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T09:13:13.985Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +74,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAiwGYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T09:55:25.505Z",
               "EditorCaption": ""
