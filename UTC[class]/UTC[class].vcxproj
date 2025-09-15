@@ -24,6 +24,7 @@
     <ProjectGuid>{07b2c784-5111-4d20-949d-f4ffe06fba81}</ProjectGuid>
     <RootNamespace>UTCclass</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

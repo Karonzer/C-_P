@@ -1,3 +1,4 @@
-﻿  Program.cpp
-C:\Users\Administrator\Desktop\C-_P\Program\Program.cpp(6,7): warning C4091: 'static ': 변수를 선언하지 않으면 'Unit' 왼쪽은 무시됩니다.
+﻿  Consumable.cpp
+  Program.cpp
+  코드를 생성하고 있습니다...
   Program.vcxproj -> C:\Users\Administrator\Desktop\C-_P\Program\x64\Debug\Program.exe
