@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cae19e74-9118-4371-9748-02a04210a6f8}</ProjectGuid>
-    <RootNamespace>Program</RootNamespace>
+    <ProjectGuid>{d5669086-3924-4cc8-a01c-625fa8aa852c}</ProjectGuid>
+    <RootNamespace>Day4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,18 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Golem.cpp" />
-    <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Skeleton.cpp" />
-    <ClCompile Include="Slime.cpp" />
-    <ClCompile Include="Unit.cpp" />
+    <ClCompile Include="..\Program\Consumable.cpp" />
+    <ClCompile Include="..\Program\Function.cpp" />
+    <ClCompile Include="Day4.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Core.h" />
-    <ClInclude Include="Golem.h" />
-    <ClInclude Include="Skeleton.h" />
-    <ClInclude Include="Slime.h" />
-    <ClInclude Include="Unit.h" />
+    <ClInclude Include="..\Program\Consumable.h" />
+    <ClInclude Include="..\Program\Function.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
