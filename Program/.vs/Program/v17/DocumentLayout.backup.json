@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Skeleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Skeleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Skeleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Slime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,24 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5669086-3924-4CC8-A01C-625FA8AA852C}|..\\Day4\\Day4.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6513B5E6-72E7-47B3-9626-2C11B99C0246}|..\\ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 930,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Skeleton.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.cpp",
               "RelativeDocumentMoniker": "Skeleton.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.cpp",
               "RelativeToolTip": "Skeleton.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAxwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T10:15:53.632Z",
               "EditorCaption": ""
@@ -87,27 +81,27 @@
               "RelativeDocumentMoniker": "Golem.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp",
               "RelativeToolTip": "Golem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T10:15:30.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Slime.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.cpp",
               "RelativeDocumentMoniker": "Slime.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.cpp",
               "RelativeToolTip": "Slime.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T10:15:29.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Core.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h",
               "RelativeDocumentMoniker": "Core.h",
@@ -120,106 +114,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Golem.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h",
               "RelativeDocumentMoniker": "Golem.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h",
               "RelativeToolTip": "Golem.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-16T10:14:57.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Skeleton.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.h",
               "RelativeDocumentMoniker": "Skeleton.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Skeleton.h",
               "RelativeToolTip": "Skeleton.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-16T10:14:50.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-15T08:53:18.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Unit.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.cpp",
               "RelativeDocumentMoniker": "Unit.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.cpp",
               "RelativeToolTip": "Unit.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T10:15:20.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Slime.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h",
               "RelativeDocumentMoniker": "Slime.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h*",
-              "RelativeToolTip": "Slime.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h",
+              "RelativeToolTip": "Slime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-16T10:14:39.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Unit.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.h",
               "RelativeDocumentMoniker": "Unit.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.h",
               "RelativeToolTip": "Unit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-16T10:13:28.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Day4.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
-              "RelativeDocumentMoniker": "..\\Day4\\Day4.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
-              "RelativeToolTip": "..\\Day4\\Day4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T10:02:38.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConsoleApplication2.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication2\\ConsoleApplication2.cpp",
-              "RelativeDocumentMoniker": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication2\\ConsoleApplication2.cpp",
-              "RelativeToolTip": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAuwKoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:53:42.151Z",
               "EditorCaption": ""
             }
           ]

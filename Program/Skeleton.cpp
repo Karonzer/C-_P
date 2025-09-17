@@ -2,6 +2,7 @@
 
 Skeleton::Skeleton()
 {
+	name = "Skeleton";
 	health = 100;
 	attack = 5;
 	defense = 1;
@@ -19,4 +20,9 @@ void Skeleton::Stat()
 void Skeleton::Attack()
 {
 	cout << "Skeleton : °ø°Ý " << endl;
+}
+
+void Skeleton::Describe()
+{
+	cout << "³ª´Â ½ºÄÌ·¹ÅæÀÌ´Ù." << endl;
 }

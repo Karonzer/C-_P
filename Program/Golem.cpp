@@ -2,6 +2,7 @@
 
 Golem::Golem()
 {
+	name = "Golem";
 	health = 250;
 	attack = 10;
 	defense = 5;
@@ -18,4 +19,9 @@ void Golem::Stat()
 void Golem::Attack()
 {
 	cout << "Golem : °ø°Ý " << endl;
+}
+
+void Golem::Describe()
+{
+	cout << "³ª´Â °ñ·½ÀÌ´Ù." << endl;
 }

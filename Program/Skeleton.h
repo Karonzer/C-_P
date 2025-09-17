@@ -8,5 +8,6 @@ public:
 public:
 	virtual void Stat() override;
 	virtual void Attack() override;
+	virtual void Describe() override;
 };
 

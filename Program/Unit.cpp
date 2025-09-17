@@ -3,5 +3,7 @@
 
 void Unit::State()
 {
-	cout << "Health : " << health << " Attack : " << attack << " Defense : " << defense << endl;
+	cout << "Name : " << name << " " << "Health : " << health << " Attack : " << attack << " Defense : " << defense << endl;
 }
+
+
