@@ -1,5 +1,5 @@
-#include "Slime.h"
-
+#include "../Program/Slime.h"
+#include "../Program/stdafx.h"
 Slime::Slime()
 {
 	name = "Slime";
@@ -10,6 +10,7 @@ Slime::Slime()
 
 Slime::~Slime()
 {
+	cout << "Slime ¼Ò¸êÀÚ È£Ãâ" << endl;
 }
 
 void Slime::Stat()

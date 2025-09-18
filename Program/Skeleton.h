@@ -4,7 +4,7 @@ class Skeleton : public Unit
 {
 public:
 	Skeleton();
-	~Skeleton();
+	virtual ~Skeleton() override;
 public:
 	virtual void Stat() override;
 	virtual void Attack() override;

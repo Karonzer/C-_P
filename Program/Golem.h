@@ -4,7 +4,7 @@ class Golem : public Unit
 {
 public:
 	Golem();
-	~Golem();
+	virtual ~Golem() override;
 public:
 	virtual void Stat() override;
 	virtual void Attack() override;

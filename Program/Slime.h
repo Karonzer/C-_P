@@ -4,7 +4,7 @@ class Slime : public Unit
 {
 public:
 	Slime();
-	~Slime();
+	virtual ~Slime() override;
 public:
 	virtual void Stat() override;
 	virtual void Attack() override;

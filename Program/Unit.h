@@ -8,6 +8,8 @@ protected:
 	const char* name;
 
 public:
+	virtual ~Unit();
+public:
 	virtual void Stat() = 0;
 	virtual void Attack() = 0;
 

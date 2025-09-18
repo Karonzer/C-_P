@@ -1,5 +1,5 @@
-#include "Skeleton.h"
-
+#include "../Program/Skeleton.h"
+#include "../Program/stdafx.h"
 Skeleton::Skeleton()
 {
 	name = "Skeleton";
@@ -10,6 +10,7 @@ Skeleton::Skeleton()
 
 Skeleton::~Skeleton()
 {
+	cout << "Skeleton ¼Ò¸êÀÚ È£Ãâ" << endl;
 }
 
 void Skeleton::Stat()

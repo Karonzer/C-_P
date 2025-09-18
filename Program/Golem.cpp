@@ -1,5 +1,5 @@
-#include "Golem.h"
-
+#include "../Program/Golem.h"
+#include "../Program/stdafx.h"
 Golem::Golem()
 {
 	name = "Golem";
@@ -10,6 +10,7 @@ Golem::Golem()
 
 Golem::~Golem()
 {
+	cout << "Golem ¼Ò¸êÀÚ È£Ãâ" << endl;
 }
 
 void Golem::Stat()
