@@ -1,16 +1,30 @@
 ﻿#include "stdafx.h"
+#include "Vecter2.h"
 
 int main()
 {
-#pragma region 추상화
-	// 복잡한 시스템이나 객체의 내부의 세부 사항을 숨기고,
-	// 필요한 부분만을 외부에서 사용할 수 있게 단순한 시키는 작업입니다.
+#pragma region 캡슐화
+	// 객체의 속성과 기능을 하나의 단위 합친 다음
+	// 외부에서 필요한 정보만 접근 할 수 있도록 제한하는 기능입니다.
 
-	// 추상 클래스는 정의 되어 있지 않은 삼수가 있으므로,
-	//객체를 생성할 수 없습니다.
+	Vecter2 v1(2, 2);
+	Vecter2 v2(2, 2);
+
+	Vecter2 dir = v1 + v2;
+	dir.Print();
+
+	Vecter2 sub = v1 - v2;
+	sub.Print();
+
+	Vecter2 mul = v1 * v2;
+	mul.Print();
+
+	Vecter2 div = v1 / v2;
+	div.Print();
 
 #pragma endregion
 	return 0;
 }
+
 
 

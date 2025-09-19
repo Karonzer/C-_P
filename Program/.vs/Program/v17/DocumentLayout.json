@@ -3,12 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Furniture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Vecter2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Furniture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Vecter2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713FFDD2-32F2-4E8F-8003-F861C6A4D675}|..\\Day6\\Day6.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Day6\\Day6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|solutionrelative:Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|solutionrelative:Golem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|solutionrelative:Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,28 +57,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Furniture.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.cpp",
-              "RelativeDocumentMoniker": "Furniture.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.cpp",
-              "RelativeToolTip": "Furniture.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Vecter2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.cpp",
+              "RelativeDocumentMoniker": "Vecter2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.cpp",
+              "RelativeToolTip": "Vecter2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T10:37:50.924Z",
+              "WhenOpened": "2025-09-19T10:01:50.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vecter2.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.h",
+              "RelativeDocumentMoniker": "Vecter2.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Vecter2.h",
+              "RelativeToolTip": "Vecter2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T10:01:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Day6.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day6\\Day6.cpp",
+              "RelativeDocumentMoniker": "..\\Day6\\Day6.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day6\\Day6.cpp",
+              "RelativeToolTip": "..\\Day6\\Day6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T09:36:58.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h",
+              "RelativeDocumentMoniker": "Core.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h",
+              "RelativeToolTip": "Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T09:17:46.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Golem.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp",
+              "RelativeDocumentMoniker": "Golem.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp",
+              "RelativeToolTip": "Golem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T09:16:57.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AgIAADsCAAAAAAAAAAAEwEcCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-19T09:13:56.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T09:07:53.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Furniture.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.h",
-              "RelativeDocumentMoniker": "Furniture.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Furniture.h",
-              "RelativeToolTip": "Furniture.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T10:37:08.596Z",
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T08:58:50.639Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Golem.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h",
+              "RelativeDocumentMoniker": "Golem.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h",
+              "RelativeToolTip": "Golem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T09:17:01.476Z"
             }
           ]
         }

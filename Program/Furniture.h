@@ -1,10 +1,11 @@
 #pragma once
 class Furniture
 {
-private:
+protected:
 	const char* name;
 public:
-	virtual ~Furniture() = 0;
+
+	virtual ~Furniture();
 public:
 	virtual void Intercat() = 0;
 };
