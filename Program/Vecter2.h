@@ -9,10 +9,18 @@ public:
 public:
 	//Vecter2 operator+(const Vecter2& _value);
 
-	Vecter2 operator+(const Vecter2& _value);
-	Vecter2 operator-(const Vecter2& _value);
-	Vecter2 operator*(const Vecter2& _value);
-	Vecter2 operator/(const Vecter2& _value);
+	const int& X();
+	const int& Y();
+
+	const Vecter2 & operator+(const Vecter2& _value);
+	const Vecter2 & operator-(const Vecter2& _value);
+	const Vecter2 & operator*(const Vecter2& _value);
+	const Vecter2 & operator/(const Vecter2& _value);
+	const Vecter2 & operator++();
+	const Vecter2& operator--();
+	const Vecter2& operator++(int);
+
+	const Vecter2& operator--(int);
 public:
 	void Print();
 	int Get_X() { return x; }
