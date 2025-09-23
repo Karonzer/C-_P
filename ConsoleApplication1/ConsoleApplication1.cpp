@@ -76,7 +76,7 @@ int main()
 	//cout << "y : " << y << endl;
 
 	//Swap2(&x, &y);
-	//cout << "Swap2(&x, y)" << endl;
+	//cout << "Swap2(&x, &y)" << endl;
 	//cout << "x : " << x << endl;
 	//cout << "y : " << y << endl;
 #pragma endregion
