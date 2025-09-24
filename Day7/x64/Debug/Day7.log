@@ -1,0 +1,10 @@
+﻿  Vecter2.cpp
+  Day7.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(22,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(39,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(78,1): warning C4172: 지역 변수 또는 임시 : temp의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(29,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(34,1): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\C-_P\Program\Vecter2.cpp(61,1): warning C4172: 지역 변수 또는 임시 : temp의 주소를 반환하는 중
+  Day7.vcxproj -> C:\Users\Administrator\Desktop\C-_P\Program\x64\Debug\Day7.exe
