@@ -7,6 +7,32 @@
       "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\MEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6513B5E6-72E7-47B3-9626-2C11B99C0246}|..\\ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -55,13 +81,6 @@
       "RelativeMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|solutionrelative:Slime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAE19E74-9118-4371-9748-02A04210A6F8}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C5BB9269-E8AA-412F-91AA-E30F3261C285}|..\\Day 5\\Day 5.vcxproj|solutionrelative:Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -81,7 +100,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 930,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,15 +112,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Day8.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day8\\Day8.cpp",
-              "RelativeDocumentMoniker": "..\\Day8\\Day8.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day8\\Day8.cpp",
-              "RelativeToolTip": "..\\Day8\\Day8.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.cpp",
+              "RelativeDocumentMoniker": "Resource.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.cpp",
+              "RelativeToolTip": "Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-24T10:23:12.405Z",
+              "WhenOpened": "2025-09-25T10:17:52.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T10:17:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.cpp",
+              "RelativeDocumentMoniker": "Material.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.cpp",
+              "RelativeToolTip": "Material.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T09:07:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.h",
+              "RelativeDocumentMoniker": "Material.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Material.h",
+              "RelativeToolTip": "Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T09:06:51.897Z",
               "EditorCaption": ""
             },
             {
@@ -110,9 +168,9 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Program.cpp*",
+              "RelativeToolTip": "Program.cpp*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-24T09:19:49.926Z",
               "EditorCaption": ""
@@ -120,30 +178,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Day4.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
-              "RelativeDocumentMoniker": "..\\Day4\\Day4.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
-              "RelativeToolTip": "..\\Day4\\Day4.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T09:43:01.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "Consumable.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Consumable.cpp",
-              "RelativeToolTip": "Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T09:43:00.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ConsoleApplication2.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeDocumentMoniker": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
@@ -151,12 +185,11 @@
               "RelativeToolTip": "..\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAGwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T09:41:47.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T09:41:47.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "UTC[class].cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\UTC[class]\\UTC[class].cpp",
               "RelativeDocumentMoniker": "..\\UTC[class]\\UTC[class].cpp",
@@ -168,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ConsoleApplication1.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
@@ -180,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Unit.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.h",
               "RelativeDocumentMoniker": "Unit.h",
@@ -192,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Slime.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.h",
               "RelativeDocumentMoniker": "Slime.h",
@@ -204,7 +237,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T09:07:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AgIAADoCAAAAAAAAAAAywEcCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-19T09:13:56.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Consumable.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Consumable.cpp",
+              "RelativeDocumentMoniker": "Consumable.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Consumable.cpp",
+              "RelativeToolTip": "Consumable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T09:43:00.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Day4.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
+              "RelativeDocumentMoniker": "..\\Day4\\Day4.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day4\\Day4.cpp",
+              "RelativeToolTip": "..\\Day4\\Day4.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T09:43:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ViewState": "AgIAAP0NAAAAAAAAAAAcwAkOAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-25T09:27:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Day6.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day6\\Day6.cpp",
               "RelativeDocumentMoniker": "..\\Day6\\Day6.cpp",
@@ -216,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Function.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Function.cpp",
               "RelativeDocumentMoniker": "Function.cpp",
@@ -228,7 +324,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Day8.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day8\\Day8.cpp",
+              "RelativeDocumentMoniker": "..\\Day8\\Day8.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day8\\Day8.cpp",
+              "RelativeToolTip": "..\\Day8\\Day8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T10:23:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Day7.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day7\\Day7.cpp",
               "RelativeDocumentMoniker": "..\\Day7\\Day7.cpp",
@@ -240,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Unit.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Unit.cpp",
               "RelativeDocumentMoniker": "Unit.cpp",
@@ -252,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Day 5.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Day 5\\Day 5.cpp",
               "RelativeDocumentMoniker": "..\\Day 5\\Day 5.cpp",
@@ -264,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Slime.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Slime.cpp",
               "RelativeDocumentMoniker": "Slime.cpp",
@@ -276,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Core.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Core.h",
               "RelativeDocumentMoniker": "Core.h",
@@ -288,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Golem.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.cpp",
               "RelativeDocumentMoniker": "Golem.cpp",
@@ -300,31 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Microsoft.CppCommon.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
-              "ViewState": "AgIAADsCAAAAAAAAAAAEwEcCAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-19T09:13:56.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
-              "RelativeDocumentMoniker": "stdafx.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\stdafx.h",
-              "RelativeToolTip": "stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-19T09:07:53.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Golem.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-_P\\Program\\Golem.h",
               "RelativeDocumentMoniker": "Golem.h",
