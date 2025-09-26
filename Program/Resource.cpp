@@ -11,12 +11,8 @@ Resource::~Resource()
 	cout << "Resource ¼Ò¸êÀÚ" << endl;
 }
 
-void Resource::Share(shared_ptr<Resource> _date)
+void Resource::Share(shared_ptr<Resource> &_date)
 {
 	pointer = _date;
-}
-
-void Resource::TEST()
-{
 }
 

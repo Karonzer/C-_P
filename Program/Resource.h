@@ -9,7 +9,6 @@ public:
 	~Resource();
 
 public:
-	void Share(shared_ptr<Resource> _date);
-	void TEST();
+	void Share(shared_ptr<Resource> &_date);
 };
 
