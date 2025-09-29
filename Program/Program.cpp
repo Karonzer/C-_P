@@ -43,13 +43,32 @@ int main()
 #pragma endregion
 
 #pragma region 리스트 컨테이너
-	list<int> list;
+	list<int> dateList;
 
-	list.push_back(10);
-	list.push_back(20);
-	list.push_back(30);
-	list.push_back(40);
-	list.push_back(50);
+	dateList.push_back(10);
+	dateList.push_back(20);
+	dateList.push_back(30);
+	dateList.push_back(40);
+	dateList.push_back(50);
+
+	list<int>::iterator itr;
+	for(itr = dateList.begin(); itr != dateList.end(); itr++)
+	{
+		cout << *itr << endl;
+	}
+
+	//for(auto iter = dateList.begin(); iter != dateList.end(); iter++)
+	//{
+	//	cout << *iter << endl;
+	//}
+
+	for (int ptr : dateList) {
+
+		printf("%d\n", ptr);
+	}
+
+
+
 
 #pragma endregion
 #pragma endregion
