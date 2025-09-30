@@ -1,77 +1,58 @@
 ﻿#include "stdafx.h"
-#include <vector>
-#include <list>
+#include <stack>
+#include <queue>
 int main()
 {
-#pragma region 선형 컨테이너
-	// 데이터를 선형으로 저장하며 특별한 제약이나 규칭이 없는 컨테이입니다,
-#pragma region vector
-	
+#pragma region 컨테이너 어댑터
+	// 기존 컨테이너의 인테페이스를 제한하여 만든 기능이
+	// 제한 되거나 변경된 컨테이너입니다.
 
-	/*vector<int> vector;
-	vector.reserve(20);
+#pragma region 스택 컨테이너
+	//stack<int> stack;
 
-	vector.push_back(10);
+	//stack.push(10);
+	//stack.push(20);
+	//stack.push(30);
+	//stack.push(40);
+	//stack.push(50);
 
+	//cout << "size : " << stack.size() << endl;
+	////int size = stack.size();
+	////for (int i = 0; i < size;i++)
+	////{
+	////	cout << stack.top() << endl;
+	////	stack.pop();
+	////}
 
-
-	vector.push_back(20);
-	vector.push_back(30);
-
-
-	vector.push_back(40);
-	vector.push_back(50);
-
-
-	cout << vector.capacity() << endl;
-
-	cout << "vector size : " << vector.size() << endl;
-	for (int i = 0; i < vector.size(); i++)
-	{
-		cout << vector[i] << endl;
-	}
-
-
-
-	vector.pop_back();
-
-	for (int i = 0; i < vector.size(); i++)
-	{
-		cout << vector[i] << endl;
-	}*/
-
-#pragma endregion
-
-#pragma region 리스트 컨테이너
-	list<int> dateList;
-
-	dateList.push_back(10);
-	dateList.push_back(20);
-	dateList.push_back(30);
-	dateList.push_back(40);
-	dateList.push_back(50);
-
-	list<int>::iterator itr;
-	for(itr = dateList.begin(); itr != dateList.end(); itr++)
-	{
-		cout << *itr << endl;
-	}
-
-	//for(auto iter = dateList.begin(); iter != dateList.end(); iter++)
+	//while (!stack.empty())
 	//{
-	//	cout << *iter << endl;
+	//	cout << stack.top() << endl;
+	//	stack.pop();
 	//}
 
-	for (int ptr : dateList) {
+	
+	//cout << "size : " << stack.size() << endl;
+#pragma endregion
 
-		printf("%d\n", ptr);
+#pragma region 큐 컨테이너
+	queue<int> queue;
+
+	queue.push(10);
+	queue.push(20);
+	queue.push(30);
+	queue.push(40);
+	queue.push(50);
+
+	cout << "size : " << queue.size() << endl;
+
+	int size = queue.size();
+	for (int i = 0; i < size;i++)
+	{
+		cout << queue.front() << endl;
+		queue.pop();
 	}
 
-
-
-
 #pragma endregion
 #pragma endregion
-
 	return 0;
 }
