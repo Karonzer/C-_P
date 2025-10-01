@@ -17,6 +17,7 @@ int main()
 	//stack.push(50);
 
 	//cout << "size : " << stack.size() << endl;
+	////int size = stack.size();
 	////for (int i = 0; i < size;i++)
 	////{
 	////	cout << stack.top() << endl;
